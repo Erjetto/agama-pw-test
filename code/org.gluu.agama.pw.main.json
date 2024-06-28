@@ -860,7 +860,7 @@
 					"inIterateBlock": false,
 					"assignments": [],
 					"nodeIcon": "ph:globe-simple",
-					"templatePath": "login-basic.ftlh",
+					"templatePath": "login_json.ftlh",
 					"asssignedVariableName": "credentials",
 					"arguments": [
 						"uiFeedback"
@@ -1672,8 +1672,8 @@
 		}
 	],
 	"viewport": {
-		"x": -123,
-		"y": 95,
-		"zoom": 0.75
+		"x": -53.710028460618275,
+		"y": 72.71431601288646,
+		"zoom": 0.6638653234346585
 	}
 }
