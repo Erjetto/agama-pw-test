@@ -1,4 +1,5 @@
+<#ftl output_format="JSON">
 {
-    "title": "An unexpected error ocurred",    
+    "title": "Test JSON",    
     "message": "Test"
 }
